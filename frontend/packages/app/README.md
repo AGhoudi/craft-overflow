@@ -2,8 +2,6 @@ bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/can
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
 npm run dev
 # or
