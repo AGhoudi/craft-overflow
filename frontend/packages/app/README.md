@@ -3,7 +3,7 @@ bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/can
 ## Getting Started
 
 
-npm run dev
+
 # or
 yarn dev
 ```
