@@ -2,7 +2,7 @@ bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/can
 
 ## Getting Started
 
-```bash
+
 npm run dev
 # or
 yarn dev
