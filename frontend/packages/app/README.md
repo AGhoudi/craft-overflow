@@ -1,12 +1,5 @@
 bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-
-
-
-
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on 
-
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 
